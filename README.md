@@ -1,0 +1,2 @@
+# spectre
+arch hw6
