@@ -1,0 +1,4 @@
+#!/bin/bash
+
+g++ -std=c++17 -Wall -Wextra -Wconversion hw6.cpp 
+./a.out secretic! out.txt

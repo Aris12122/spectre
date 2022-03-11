@@ -1,0 +1,33 @@
+Best value is : s; code: 115
+was best in 996 cases of 1000
+
+Best value is : e; code: 101
+was best in 996 cases of 1000
+
+Best value is : c; code: 99
+was best in 997 cases of 1000
+
+Best value is : r; code: 114
+was best in 997 cases of 1000
+
+Best value is : e; code: 101
+was best in 994 cases of 1000
+
+Best value is : t; code: 116
+was best in 997 cases of 1000
+
+Best value is : i; code: 105
+was best in 996 cases of 1000
+
+Best value is : c; code: 99
+was best in 997 cases of 1000
+
+Best value is : !; code: 33
+was best in 998 cases of 1000
+
+Want to get:
+secretic!
+Got data:
+secretic!
+
+Success
